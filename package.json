@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "ポケモンRPG MZ",
+        "width": 1708,
+        "height": 960,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
